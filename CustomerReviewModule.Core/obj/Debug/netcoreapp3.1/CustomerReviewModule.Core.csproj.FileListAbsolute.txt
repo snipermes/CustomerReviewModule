@@ -1,0 +1,9 @@
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\bin\Debug\netcoreapp3.1\CustomerReviewModule.Core.deps.json
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\bin\Debug\netcoreapp3.1\CustomerReviewModule.Core.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\bin\Debug\netcoreapp3.1\CustomerReviewModule.Core.pdb
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.csproj.CoreCompileInputs.cache
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.AssemblyInfoInputs.cache
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.AssemblyInfo.cs
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.pdb
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Core\obj\Debug\netcoreapp3.1\CustomerReviewModule.Core.csprojAssemblyReference.cache

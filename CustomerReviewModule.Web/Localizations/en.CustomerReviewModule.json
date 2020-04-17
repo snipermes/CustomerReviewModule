@@ -1,0 +1,28 @@
+{
+  "customerReviewModule": {
+    "blades": {
+      "hello-world": {
+        "title": "Hello world blade"
+      }
+    }
+  },
+  "permissions": {
+    "customerReviewModule:access": "Open CustomerReviewModule menu",
+    "customerReviewModule:create": "Create CustomerReviewModule related data",
+    "customerReviewModule:read": "View CustomerReviewModule related data",
+    "customerReviewModule:update": "Update CustomerReviewModule related data",
+    "customerReviewModule:delete": "Delete CustomerReviewModule related data"
+  },
+  "settings": {
+    "CustomerReviewModule": {
+      "CustomerReviewModulePassword": {
+        "title": "CustomerReviewModule Password",
+        "description": "CustomerReviewModule Password setting"
+      },
+      "CustomerReviewModuleEnabled": {
+        "title": "CustomerReviewModule Enabled",
+        "description": "CustomerReviewModule Enabled setting"
+      }
+    }
+  }
+}
