@@ -146,7 +146,6 @@ D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\n
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\CustomerReviewModule.Data.pdb
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\CustomerReviewModule.Web.pdb
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.csprojAssemblyReference.cache
-D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.csproj.CoreCompileInputs.cache
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.AssemblyInfoInputs.cache
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.AssemblyInfo.cs
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.csproj.CopyComplete
@@ -154,3 +153,8 @@ D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\n
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.pdb
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.genruntimeconfig.cache
 D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\MockQueryable.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\bin\Debug\netcoreapp3.1\MockQueryable.Moq.dll
+D:\Projects\virtoway\CustomerReviewModule\CustomerReviewModule.Tests\obj\Debug\netcoreapp3.1\CustomerReviewModule.Tests.csproj.CoreCompileInputs.cache
