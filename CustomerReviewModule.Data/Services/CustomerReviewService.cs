@@ -72,15 +72,13 @@ namespace CustomerReviewModule.Data.Services
         public virtual async Task DeleteCustomerReviewsAsync(string[] ids)
         {
             var items = await GetByIdsAsync(ids);
-
+            var pkMap = new PrimaryKeyResolvingMap();
             using (var repository = _repositoryFactory())
             {
                 foreach (var item in items)
                 {
-                    try { repository.Remove(item); }
-                    catch (Exception ex)
-                    { }
-                   
+                    var entity = AbstractTypeFactory<CustomerReviewEntity>.TryCreateInstance().FromModel(item, pkMap);
+                    repository.Remove(entity);
                 }
 
                 await repository.UnitOfWork.CommitAsync();
